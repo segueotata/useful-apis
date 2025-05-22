@@ -1,2 +1,4 @@
-# useful-apis
-Just some APIs that i've used for some projects
+# A repository for helping me at my code journey
+# Take a look if you like!
+
+Just some hints and tips for future projects
